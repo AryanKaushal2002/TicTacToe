@@ -77,7 +77,7 @@ public class TicTacToe {
                     else{
                         player='X';
                     }
-                    //player= (player=='X')? 'O':'X';
+                    
                 }
             }
             else{
